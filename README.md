@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋</h1>
+<h2 align="left">Hi there 👋</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mikunnareda.mikunnareda&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mikunnareda.mikunnareda&left_text=Profile%20views"  />
 </div>
 
 ###
@@ -71,6 +71,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikunnareda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mikunnareda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mikunnareda/count.svg?"  />
 </div>
 
 ###
