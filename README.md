@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://in.pinterest.com/pin/204702745549241158/"  />
+  <img height="80" src="https://camo.githubusercontent.com/f3181da134e13f98e9b2caf7b11f52b3b5a223ad7e5da555521de0f3baa4d53d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"  />
 </div>
 
 ###
